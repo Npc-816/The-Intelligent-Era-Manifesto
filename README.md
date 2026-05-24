@@ -24,7 +24,4 @@ This work is licensed under the **Creative Commons Attribution-NonCommercial-NoD
 
 You are free to share and distribute this manifesto, provided you give appropriate credit, do not use it for commercial purposes, and do not distribute modified versions. See the [LICENSE](./LICENSE) file for details.
 
-## Contact
 
-For academic discourse or critical feedback:
-📧 `[286904382+Npc-627@users.noreply.github.com]`
